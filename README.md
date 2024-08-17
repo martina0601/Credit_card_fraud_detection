@@ -43,7 +43,7 @@ The project code comprises several components:
 *	Evaluate model performance using metrics such as accuracy, precision, recall and F1-score.
 
 # Conclusion
-a) Out of all Machine Learning Models used, Random Forest Classifier works efficiently with Maximum Accuracy of 99.996483% and macro-average of F1-Score of 1.00 acheived with Oversampling technique.
+a) Out of all Machine Learning Models used, Random Forest Classifier works efficiently with Maximum Accuracy of 99.99% and macro-average of F1-Score of 0.99 acheived with Oversampling technique.
 
 b) Oversampling Techniques proved to be efficient for handling Imbalanced Datasets.
 

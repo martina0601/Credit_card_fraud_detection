@@ -46,4 +46,4 @@ a) Out of all Machine Learning Models used, Random Forest Classifier works effic
 
 b) Oversampling Techniques proved to be efficient for handling Imbalanced Datasets.
 
-c) RandomForest, XGBoost, DecisionTree, Logistic Regression work efficiently even for this Imbalanced Datasets.
+c) RandomForest, XGBoost, DecisionTree, Logistic Regression work efficiently for this Imbalanced Datasets.

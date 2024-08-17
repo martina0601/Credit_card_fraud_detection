@@ -5,7 +5,8 @@
 *	Problem Statement
 *	Data source
 *	Explanation
-*	Models
+*	Models Used
+*	Code Execution
 *	Conclusion
 
 # Project Description
